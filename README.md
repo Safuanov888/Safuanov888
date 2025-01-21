@@ -81,7 +81,10 @@
 
 ###
 
-![Leetcode Stats](https://leetcode.com/u/Arturchikchiki/)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Arturchikichiki?ext=activity" alt="LeetCode Profile" />
+</p>
+
 
 
 
