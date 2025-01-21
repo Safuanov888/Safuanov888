@@ -67,7 +67,9 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Safuanov888)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Safuanov888&theme=dark)](https://git.io/streak-stats)
+</div>
 
 ###
 
