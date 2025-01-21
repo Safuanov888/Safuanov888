@@ -82,7 +82,7 @@
 ###
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Arturchikchiki?ext=activity" alt="LeetCode Profile" />
+  <img src="https://leetcard.jacoblin.cool/Arturchikchiki?ext=heatmap" alt="LeetCode Profile" />
 </p>
 
 
