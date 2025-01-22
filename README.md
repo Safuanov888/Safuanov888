@@ -67,9 +67,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safuanov888" height="220" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Safuanov888)](https://git.io/streak-stats)
+
 
 ###
 
