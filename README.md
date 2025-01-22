@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safuanov888&show_icons=true" alt="Safuanov888's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Safuanov888&show_icons=false&theme=dracula" alt="Safuanov888's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Safuanov888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
