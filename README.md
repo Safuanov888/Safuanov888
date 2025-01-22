@@ -75,7 +75,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safuanov888&show_icons=true&theme=dracula&hide_rank=true" width="250" alt="Safuanov888's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Safuanov888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Safuanov888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
