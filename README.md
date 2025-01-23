@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safuanov888&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=58A6FF&icon_color=58A6FF&border_color=30363D&custom_title=Моя%20Активность%20на%20GitHub" height="220" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safuanov888&theme=github_dark&hide_border=true?disable_animations=true" height="220" alt="streak graph" />
 </div>
 
 ###
