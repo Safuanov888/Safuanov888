@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safuanov888&theme=github_dark&hide_border=true" height="220" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safuanov888&theme=github_dark&hide_border=false" height="220" alt="streak graph" />
 </div>
 
 ###
