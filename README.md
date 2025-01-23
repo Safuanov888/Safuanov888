@@ -80,5 +80,5 @@
 ###
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Arturchikchiki?ext=heatmap&theme=nord" alt="LeetCode Profile" />
+  <img src="https://leetcard.jacoblin.cool/Arturchikchiki?ext=heatmap&theme=nord" height="220" alt="LeetCode Profile" />
 </p>
