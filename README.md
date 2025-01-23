@@ -68,14 +68,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safuanov888&theme=github_dark&hide_border=true?disable_animations=true" height="220" alt="streak graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safuanov888&theme=date_night" height="220" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safuanov888&show_icons=true&theme=dracula&hide_rank=true" width="250" alt="Safuanov888's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Safuanov888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Safuanov888&theme=date_night" height="160" alt="languages graph"  />
 </div>
 
 ###
